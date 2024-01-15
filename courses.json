@@ -1,11 +1,5 @@
 [
   {
-    "_id": 1,
-    "courseId": "DT162G",
-    "courseName": "Javascript-baserad webbutveckling",
-    "coursePeriod": 1
-  },
-  {
     "_id": 2,
     "courseId": "IK060G",
     "courseName": "Projektledning",
@@ -42,9 +36,9 @@
     "coursePeriod": 4
   },
   {
-    "_id": 225,
+    "_id": 4,
     "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 23
+    "courseName": "Projektledning och annat",
+    "coursePeriod": 2
   }
 ]
