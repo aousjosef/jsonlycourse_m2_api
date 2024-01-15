@@ -18,12 +18,6 @@
     "coursePeriod": 2
   },
   {
-    "_id": 4,
-    "courseId": "DT148G",
-    "courseName": "Webbutveckling för mobila enheter",
-    "coursePeriod": 2
-  },
-  {
     "_id": 5,
     "courseId": "DT102G",
     "courseName": "ASP.NET med C#",
@@ -46,60 +40,6 @@
     "courseId": "DT080G",
     "courseName": "Självständigt arbete",
     "coursePeriod": 4
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 1
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 1
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 1
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 1
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 1
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 1
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 1
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 1
-  },
-  {
-    "_id": 225,
-    "courseId": "DT543",
-    "courseName": "Aous 22",
-    "coursePeriod": 3000
   },
   {
     "_id": 225,
